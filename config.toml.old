@@ -1,0 +1,35 @@
+baseurl = "https://blog.jamesolds.me/"
+languageCode = "en-us"
+title = "[student@umuc.edu]$"
+pygmentsuseclasses = true
+pygmentsStyle = "native"
+theme = "academic"
+description = "The blog of a Network Engineer, current CS student, and programmer wannabe"
+
+[taxonomies]
+tag = "tags"
+
+[params]
+    # Social accounts. Link to these accounts are displayed in the header and
+    # footer.
+    twitter = "oldsjam"
+    github = "oldsjam"
+    linkedin = "jamesrolds"
+    #googleplus = "Your Google+ user id"
+    #facebook = "Your Facebook username"
+    #stackoverflow = "Your Stackoverflow user id (number)"
+    #keybase = "Your keybase.io username"
+    #instagram = "Your Instagram username"
+    # Disqus shortname
+    disqus = "jamesolds"
+    # Google Analytics API key.
+    #ga_api_key = "Your Google Analytics tracking id"
+    # Mixpanel API key.
+    #mixpanel_api_key = "Your Mixpanel API key"
+    author = "James Olds"
+    #avatar = "/path/to/avatar"
+    #contact = "mailto:mail@jamesolds.me"
+    #bio = "Your short bio"
+    # Short subtitle/tagline. This is displayed in the header.
+    subtitle = "The blog of a Network Engineer, current CS student, and programmer wannabe"
+    #themecolor = "#000000" # Defines the tab color in Chrome for Android.
